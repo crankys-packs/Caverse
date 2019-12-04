@@ -1,5 +1,5 @@
 @echo off
-title Savage Jacek Server Server
+title Caverse Server
 echo ===============================================================================
 fc /b "config\eula.txt" eula.txt > nul
 if errorlevel 1 (
@@ -45,5 +45,5 @@ if not errorlevel 1 (
 echo ===============================================================================
 set /p R="RAM: "
 echo Server Starting....
-java -Xmx%R%G -Xms1G -jar forge-1.12.2-14.23.5.2810-universal.jar nogui
+java -Xmx%R%G -Xms1G -jar forge-1.12.2-14.23.5.2847-universal.jar nogui
 PAUSE
