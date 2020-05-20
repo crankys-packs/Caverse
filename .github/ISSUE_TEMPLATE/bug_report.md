@@ -16,8 +16,8 @@ assignees: ''
 
 **Steps to Reproduce the Bug:**
 
-**Affected Mods** <!--- This means what mod the bug is related too --->
+**Affected Mods**
 
 **If applicable, add screenshots/videos to help explain:**
 
-**Link to Crash Report or Log** <!--- these an be found inside crash-reports/ or logs/ inside your Modpack Directly. Upload them to a service like https://hastebin.com/ or any other paste service --->
+**Link to Crash Report or debug.log from a Pastebin esc Service**
